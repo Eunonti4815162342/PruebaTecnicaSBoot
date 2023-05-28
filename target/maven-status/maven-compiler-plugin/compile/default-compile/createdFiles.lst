@@ -1,0 +1,7 @@
+com\ohtic\rest\persistence\entity\PriceEntity.class
+com\ohtic\rest\facade\services\PriceService.class
+com\ohtic\rest\controller\PriceController.class
+com\ohtic\rest\utils\Utiles.class
+com\ohtic\rest\facade\services\PriceServiceImpl.class
+com\ohtic\rest\persistence\repository\PriceRepository.class
+com\ohtic\rest\ProbaOhticApplication.class
